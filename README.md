@@ -1,4 +1,4 @@
-# Earnings-Announcement-tools# credte-main
+# Earnings-Announcement-tools
 
 ## Overview
 決算発表予定の会社を任意の条件をもとに絞って  
